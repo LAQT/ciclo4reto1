@@ -9,7 +9,7 @@ import org.springframework.stereotype.Repository;
 
 /**
  *
- * @author desarrolloextremo
+ * @author Luis Alberto quintero
  */
 @Repository
 public class UserRepository {
